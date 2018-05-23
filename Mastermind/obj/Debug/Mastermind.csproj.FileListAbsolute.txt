@@ -1,0 +1,44 @@
+c:\users\peter\documents\visual studio 2015\Projects\Mastermind\Mastermind\bin\Debug\Mastermind.exe.config
+c:\users\peter\documents\visual studio 2015\Projects\Mastermind\Mastermind\obj\Debug\Mastermind.csprojResolveAssemblyReference.cache
+c:\users\peter\documents\visual studio 2015\Projects\Mastermind\Mastermind\bin\Debug\Mastermind.exe
+c:\users\peter\documents\visual studio 2015\Projects\Mastermind\Mastermind\bin\Debug\Mastermind.pdb
+c:\users\peter\documents\visual studio 2015\Projects\Mastermind\Mastermind\obj\Debug\Mastermind.exe
+c:\users\peter\documents\visual studio 2015\Projects\Mastermind\Mastermind\obj\Debug\Mastermind.pdb
+\\dc1\UserData\355337L\Downloads\Mastermind\Mastermind\bin\Debug\Mastermind.exe.config
+\\dc1\UserData\355337L\Downloads\Mastermind\Mastermind\obj\Debug\Mastermind.exe
+\\dc1\UserData\355337L\Downloads\Mastermind\Mastermind\obj\Debug\Mastermind.pdb
+\\dc1\UserData\355337L\Downloads\Mastermind\Mastermind\bin\Debug\Mastermind.exe
+\\dc1\UserData\355337L\Downloads\Mastermind\Mastermind\bin\Debug\Mastermind.pdb
+\\dc1\UserData\355337L\Downloads\Mastermind\Mastermind\obj\Debug\Mastermind.csprojResolveAssemblyReference.cache
+\\klstu1\Students\2014\355337\My Documents\HE\y3\Mastermind\Mastermind\bin\Debug\Mastermind.exe.config
+\\klstu1\Students\2014\355337\My Documents\HE\y3\Mastermind\Mastermind\bin\Debug\Mastermind.exe
+\\klstu1\Students\2014\355337\My Documents\HE\y3\Mastermind\Mastermind\bin\Debug\Mastermind.pdb
+\\klstu1\Students\2014\355337\My Documents\HE\y3\Mastermind\Mastermind\obj\Debug\Mastermind.csprojResolveAssemblyReference.cache
+\\klstu1\Students\2014\355337\My Documents\HE\y3\Mastermind\Mastermind\obj\Debug\Mastermind.exe
+\\klstu1\Students\2014\355337\My Documents\HE\y3\Mastermind\Mastermind\obj\Debug\Mastermind.pdb
+E:\Mastermind\Mastermind\bin\Debug\Mastermind.exe.config
+E:\Mastermind\Mastermind\bin\Debug\Mastermind.exe
+E:\Mastermind\Mastermind\bin\Debug\Mastermind.pdb
+E:\Mastermind\Mastermind\obj\Debug\Mastermind.csprojResolveAssemblyReference.cache
+E:\Mastermind\Mastermind\obj\Debug\Mastermind.exe
+E:\Mastermind\Mastermind\obj\Debug\Mastermind.pdb
+K:\Mastermind\Mastermind\bin\Debug\Mastermind.exe.config
+K:\Mastermind\Mastermind\obj\Debug\Mastermind.exe
+K:\Mastermind\Mastermind\obj\Debug\Mastermind.pdb
+K:\Mastermind\Mastermind\obj\Debug\Mastermind.csprojResolveAssemblyReference.cache
+D:\Mastermind\Mastermind\obj\Debug\Mastermind.csprojResolveAssemblyReference.cache
+D:\Mastermind\Mastermind\obj\Debug\Mastermind.exe
+D:\Mastermind\Mastermind\obj\Debug\Mastermind.pdb
+D:\Mastermind\Mastermind\bin\Debug\Mastermind.exe.config
+D:\Mastermind\Mastermind\bin\Debug\Mastermind.exe
+D:\Mastermind\Mastermind\bin\Debug\Mastermind.pdb
+I:\Mastermind\Mastermind\bin\Debug\Mastermind.exe.config
+I:\Mastermind\Mastermind\bin\Debug\Mastermind.exe
+I:\Mastermind\Mastermind\bin\Debug\Mastermind.pdb
+I:\Mastermind\Mastermind\obj\Debug\Mastermind.csprojResolveAssemblyReference.cache
+I:\Mastermind\Mastermind\obj\Debug\Mastermind.csproj.CoreCompileInputs.cache
+I:\Mastermind\Mastermind\obj\Debug\Mastermind.exe
+I:\Mastermind\Mastermind\obj\Debug\Mastermind.pdb
+K:\Mastermind\Mastermind\bin\Debug\Mastermind.exe
+K:\Mastermind\Mastermind\bin\Debug\Mastermind.pdb
+K:\Mastermind\Mastermind\obj\Debug\Mastermind.csproj.CoreCompileInputs.cache
